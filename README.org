@@ -1,0 +1,7 @@
+* kant.el
+
+  Insert pseudo-random dummy text paragraphs and headings for =org-mode=.
+  
+- ‘The Critique of Pure Reason’ by Immanuel Kant :: [[https://gutenberg.org/ebooks/4280]]
+- =lorem-ipsum.el= :: [[https://github.com/jschaf/emacs-lorem-ipsum]]
+- =kantlipsum= :: [[https://ctan.org/pkg/kantlipsum]]
